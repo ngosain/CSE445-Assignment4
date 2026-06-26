@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NationalPark>
+  <NationalPark Rating="4.9">
+    <Name>Grand Canyon</Name>
+    <Name>Grand Canyon Duplicate</Name>
+    <Phone>928-638-7496</Phone>
+    <Address>
+      <Number>8</Number>
+      <Street>S Entrance Road</Street>
+      <City>Grand Canyon</City>
+      <State>AZ</State>
+      <Zip>86023</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Yellowstone</Name>
+    <Address NearestAirport="Bozeman Yellowstone International Airport">
+      <Number>2</Number>
+      <Street>Officers Row</Street>
+      <City>Yellowstone</City>
+      <State>WY</State>
+      <Zip>82190</Zip>
+  </NationalPark>
+</NationalPark>
